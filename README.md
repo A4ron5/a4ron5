@@ -1,8 +1,8 @@
 ### Hi there 👋
   Hi. My name is Safin Maksim.  
-  I'm currently working on zaycev.net
+  I'm currently working on zaycev.net   
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin)  
-  also you can find my socials through in my [site](https://www.safin.pro)
+  Also you can find my socials through in my [site](https://www.safin.pro)
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
