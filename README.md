@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I'm currently working on zaycev.net
+- How to reach me: https://safin.pro
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
