@@ -1,7 +1,7 @@
 ### Hi there 👋
-  Hi. My name is Safin Maksim.
-  I'm currently working on zaycev.net
-  If you want to conctact with me just visit https://safin.pro
+  Hi. My name is Safin Maksim.  
+  I'm currently working on zaycev.net  
+  If you want to contact with me just visit https://safin.pro  
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
