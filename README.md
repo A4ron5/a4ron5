@@ -4,7 +4,8 @@
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin)  
   Also you can find my socials through my [site](https://www.safin.pro)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=a4ron5&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=a4ron5&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
