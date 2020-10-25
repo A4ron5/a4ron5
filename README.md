@@ -3,6 +3,9 @@
   I'm currently working on zaycev.net   
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin)  
   Also you can find my socials through my [site](https://www.safin.pro)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=a4ron5&show_icons=true&theme=radical)
+
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
