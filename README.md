@@ -2,7 +2,7 @@
   Hi. My name is Safin Maksim.  
   I'm currently working at ujin.tech.   
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin).  
-  Also you can find my socials through my [site](https://www.safin.pro).
+  Also you can find my socials through my [site](https://safin.pro).
   My [gitlab](https://gitlab.com/crockolaco)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=a4ron5&show_icons=true) 
