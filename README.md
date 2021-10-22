@@ -1,6 +1,6 @@
 ### Hi there 👋
   Hi. My name is Safin Maksim.  
-  I'm currently working at ujin.tech.   
+  I'm currently working at alfabank.ru   
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin).  
   My [gitlab](https://gitlab.com/crockolaco)
 
