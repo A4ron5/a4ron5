@@ -2,7 +2,6 @@
   Hi. My name is Safin Maksim.  
   I'm currently working at alfabank.ru   
   You can text me in [Telegram](http://t.me/crockolaco) and [Twitter](https://twitter.com/safinmuffin).  
-  My [leetcode](https://leetcode.com/A4ron5/)
 
 [![My leetcode stats](https://leetcode-stats-six.vercel.app/api?username=a4ron5)](https://leetcode.com/A4ron5/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a4ron5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
