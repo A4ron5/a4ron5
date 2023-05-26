@@ -2,8 +2,6 @@
   Hi. My name is Safin Maksim.  
   I'm currently working at alfabank.ru   
 
-[![My leetcode stats](https://leetcode-stats-six.vercel.app/api?username=a4ron5)](https://leetcode.com/A4ron5/)
-
 <!--
 **A4ron5/a4ron5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
